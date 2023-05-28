@@ -2,6 +2,9 @@
 
 Auto-completion algorithm leveraging prefix tree for quick traversal and retrieval of matching words. Presented with a bespoke react frontend.
 
+https://github.com/allenbrubaker/auto-complete/assets/7928072/23efb62e-7513-4885-990f-f00ff6d1533c
+
+
 ## Setup
 
 - `npm i -g yarn`
